@@ -10,7 +10,7 @@
 
 ### Sobre mim: 
 
-- 💼 Atualmente trabalhando na Solve4Me
+- 💼 Atualmente trabalhando na QUOD
 - 🎓 Cursando Ciência da Computação
 - 🧠 Determinado a evoluir meu conhecimento
 - 🌎 Conhecimento em Inglês - Intermediário
