@@ -9,12 +9,12 @@
 - 🌎 Conhecimento em Inglês - Intermediário
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/felipemarano/) 
 
-### Conhecimentos:
-- JavaScript (Básico)
-- Python (Básico)
-- HTML (Básico
-- CSS (Básico)
-- Power BI (Básico)
+### Conhecimentos básicos em:
+- JavaScript 
+- Python 
+- HTML 
+- CSS 
+- Power BI
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
